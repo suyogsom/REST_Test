@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="theSuite">
+ <test name="all_tests">
+ <classes>
+  <class name="all_tests.MathUnitsTest" />
+   <class name="all_tests.Rec_Spec" />
+ </classes>
+ </test>
+</suite>

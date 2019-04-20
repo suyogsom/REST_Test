@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3406" started-at="2019-04-20T21:11:12Z" finished-at="2019-04-20T21:11:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3406" started-at="2019-04-20T21:11:12Z" finished-at="2019-04-20T21:11:16Z">
+      <class name="all_tests.Rec_Spec">
+        <test-method status="PASS" signature="testCRUDOperationsAllTogether()[pri:0, instance:all_tests.Rec_Spec@4667ae56]" name="testCRUDOperationsAllTogether" duration-ms="3354" started-at="2019-04-20T21:11:12Z" finished-at="2019-04-20T21:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCRUDOperationsAllTogether -->
+      </class> <!-- all_tests.Rec_Spec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
