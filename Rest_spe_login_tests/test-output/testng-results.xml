@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="160" started-at="2019-04-20T22:02:09Z" finished-at="2019-04-20T22:02:09Z">
+  <suite name="Default suite" duration-ms="3937" started-at="2019-04-20T22:08:57Z" finished-at="2019-04-20T22:09:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="160" started-at="2019-04-20T22:02:09Z" finished-at="2019-04-20T22:02:09Z">
+    <test name="Default test" duration-ms="3937" started-at="2019-04-20T22:08:57Z" finished-at="2019-04-20T22:09:01Z">
       <class name="com.io.Twitter_login">
-        <test-method status="PASS" signature="first()[pri:0, instance:com.io.Twitter_login@e25b2fe]" name="first" duration-ms="31" started-at="2019-04-20T22:02:09Z" finished-at="2019-04-20T22:02:09Z">
+        <test-method status="PASS" signature="testResourcesFirst()[pri:0, instance:com.io.Twitter_login@3e6fa38a]" name="testResourcesFirst" duration-ms="3812" started-at="2019-04-20T22:08:57Z" finished-at="2019-04-20T22:09:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- first -->
+        </test-method> <!-- testResourcesFirst -->
       </class> <!-- com.io.Twitter_login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
