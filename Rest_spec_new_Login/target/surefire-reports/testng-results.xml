@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="theSuite" duration-ms="3721" started-at="2019-04-20T22:40:02Z" finished-at="2019-04-20T22:40:06Z">
+  <suite name="theSuite" duration-ms="3698" started-at="2019-04-20T23:00:21Z" finished-at="2019-04-20T23:00:25Z">
     <groups>
     </groups>
-    <test name="com.sai" duration-ms="3721" started-at="2019-04-20T22:40:02Z" finished-at="2019-04-20T22:40:06Z">
+    <test name="com.sai" duration-ms="3698" started-at="2019-04-20T23:00:21Z" finished-at="2019-04-20T23:00:25Z">
       <class name="com.sai.Twitter_test">
-        <test-method status="PASS" signature="testResourcesFirst()[pri:0, instance:com.sai.Twitter_test@2cb4c3ab]" name="testResourcesFirst" duration-ms="3671" started-at="2019-04-20T22:40:02Z" finished-at="2019-04-20T22:40:06Z">
+        <test-method status="PASS" signature="testResourcesFirst()[pri:0, instance:com.sai.Twitter_test@12843fce]" name="testResourcesFirst" duration-ms="3657" started-at="2019-04-20T23:00:21Z" finished-at="2019-04-20T23:00:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testResourcesFirst -->
